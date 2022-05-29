@@ -1,6 +1,7 @@
 import os
 from flask import Flask, render_template, request
 import cv2
+import mediapipe as mp
 
 app = Flask(__name__)
 
