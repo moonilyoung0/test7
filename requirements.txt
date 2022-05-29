@@ -1,5 +1,4 @@
 gunicorn
 flask
 opencv-python-headless
-tensorflow-cpu
-scikit-learn
+mediapipe
